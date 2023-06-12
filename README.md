@@ -1,5 +1,5 @@
-# SummerStudent2022
-Summer student examples and resources 2022
+# SummerStudent2023
+Summer student examples and resources 2023
 
 * [Python tutorial (Supernova)](https://ivastar.github.io/python-novice-astro/)
 * [AstroPy](http://www.astropy.org/)
