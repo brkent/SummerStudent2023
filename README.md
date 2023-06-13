@@ -15,7 +15,7 @@ Summer student examples and resources 2023
 * [Pycon](https://us.pycon.org/2023/)
 * [Pandas](http://pandas.pydata.org/)
 * [Siggraph Conference](https://www.siggraph.org/)
-* [SciPy Conference](https://www.scipy2022.scipy.org/)
+* [SciPy Conference](https://www.scipy2023.scipy.org/)
 * [Visualize Astronomy Channel](https://www.youtube.com/user/VisualizeAstronomy/videos)
 * [Seaborn](https://seaborn.pydata.org/)
 * [Colorimetry in plots](https://seaborn.pydata.org/tutorial/color_palettes.html#general-principles-for-using-color-in-plots)
